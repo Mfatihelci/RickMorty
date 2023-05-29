@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "1153741db9ec477a5ffcbefc45660bf079bb0abe",
+          "version": null
+        }
+      },
+      {
+        "package": "AlamofireImage",
+        "repositoryURL": "https://github.com/Alamofire/AlamofireImage.git",
+        "state": {
+          "branch": "master",
+          "revision": "8f4d7a73d657f61309722133e57dd7ed502ee392",
+          "version": null
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": "develop",
+          "revision": "58320fe80522414bf3a7e24c88123581dc586752",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
